@@ -16,7 +16,6 @@ The repository is designed to be search‑friendly, well‑organized, and perfec
 - Explanations, notes, and multiple approaches for selected problems  
 - Time and space complexity where applicable  
 - Regular updates  
-- SEO‑optimized README for discoverability  
 
 ## 📁 Repository Structure
 
