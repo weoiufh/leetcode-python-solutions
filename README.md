@@ -1,8 +1,10 @@
 # LeetCode Python Solutions – Complete & Continuously Updated
 
-![LeetCode Logo](https://leetcode.com/static/images/LeetCode_logo_rvs.png)
-![Python Logo](https://www.python.org/static/community_logos/python-logo-generic.svg)
-![Interview Preparation](https://cdn.pixabay.com/photo/2019/06/03/08/39/programming-4240163_1280.jpg)
+<p align="center">
+  <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode Logo" width="120" height="120"/>
+  &nbsp;&nbsp;
+  <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python Logo" width="120" height="120"/>
+</p>
 
 This repository provides clear, structured, and up‑to‑date **Python solutions for LeetCode problems**.  
 Every problem folder includes the final solution, optional alternate approaches, and supporting notes where available.
@@ -28,6 +30,11 @@ Designed to be search‑friendly, well‑organized, and perfect for:
 
 ## 📁 Repository Structure
 
+Folder naming follows the pattern:  
+`problem_number-problem-title/`
+
+Example structure:
+
 ```plaintext
 leetcode-python-solutions/
     0001-two-sum/
@@ -38,7 +45,6 @@ leetcode-python-solutions/
         README.md
     ...
 ```
-![Folder Structure Example](https://i.imgur.com/4G8yVQh.png)
 
 ---
 
