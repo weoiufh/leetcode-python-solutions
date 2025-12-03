@@ -1,7 +1,7 @@
 # LeetCode Python Solutions – Complete & Continuously Updated
 
 <p align="center">
-  <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode Logo" width="120" height="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" width="120" height="120"/>
   &nbsp;&nbsp;
   <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python Logo" width="120" height="120"/>
 </p>
